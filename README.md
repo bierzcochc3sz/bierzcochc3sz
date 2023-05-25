@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maciek</h1>
 <h3 align="center">Passionate Front-End Developer Crafting Seamless Digital Experiences</h3>
 
-- 🔭 I’m currently working on [Nexon Pay](nexonpay.io)
+- 🔭 I’m currently working on Nexon Pay - nexonpay.io
 
 - 🌱 I’m currently learning **Swift**
 
